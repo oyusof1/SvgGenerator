@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgGenerator", "SvgGenerator\SvgGenerator.csproj", "{0F412A34-EC37-4961-B9F8-05C5A4F4DFA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgGeneratorTests", "SvgGeneratorTests\SvgGeneratorTests.csproj", "{364CE604-45E5-427E-90A0-8BCCB7ECB24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F412A34-EC37-4961-B9F8-05C5A4F4DFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F412A34-EC37-4961-B9F8-05C5A4F4DFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F412A34-EC37-4961-B9F8-05C5A4F4DFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F412A34-EC37-4961-B9F8-05C5A4F4DFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364CE604-45E5-427E-90A0-8BCCB7ECB24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364CE604-45E5-427E-90A0-8BCCB7ECB24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364CE604-45E5-427E-90A0-8BCCB7ECB24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364CE604-45E5-427E-90A0-8BCCB7ECB24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD4778EC-77ED-4920-AA29-BB92E07F9BC8}
+	EndGlobalSection
+EndGlobal
